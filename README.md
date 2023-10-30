@@ -34,7 +34,7 @@ python3 main.py
 
 ### Circle (Spacecraft)
 
-![Alt text](repo_images/circle?raw=true "Circle")
+![Alt text](repo_images/circle.png?raw=true "Circle")
 ### Direction
 
 ![Alt text](repo_images/direction.png?raw=true "Direction")
